@@ -1,6 +1,6 @@
 
 
-public class ExerciseRunner {
+public class  ExerciseRunner{
     public static void main(String[] args) {
         AgeFinder AgeFinder = new AgeFinder();
 
